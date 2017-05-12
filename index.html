@@ -8,7 +8,7 @@ layout: default
     <ul class="category recent-posts">       
         {% for post in site.posts limit:5  %}
         {% unless post.draft %}
-
+	
         {% if post.menutitle %}
         {% assign title = post.menutitle %}
         {% else %}

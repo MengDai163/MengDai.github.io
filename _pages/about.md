@@ -1,31 +1,30 @@
 ---
-layout:    about
-permalink: "/about/"
-author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
-menutitle: About
+layout:    个人简介
+permalink: "/个人简介/"
+author:    呆萌
+keywords:  个人简介
+title:     呆萌的诗与远方
+menutitle: 个人简介
 weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+excerpt:   介绍作者.
 ---
 
-## Profile
+## 爱好
 
-Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat.
-
----
-
-## Skills
-
-- Praesent ac augue imperdiet, interdum purus id, sollicitudin sem.
-- Sed pellentesque urna a magna suscipit volutpat.
-- Donec ultricies lectus non augue dictum hendrerit ac ac lorem.
-- Integer eget dui eu purus luctus posuere in non metus.
-- Nam ac felis eget tortor blandit gravida non et diam.
+游泳、跑步、羽毛球
 
 ---
 
-## Education
+## 技能
 
-2009 - 2012
-: Mauris vitae velit vel leo suscipit tempus vel vel elit.
+- Mysql
+- Java
+- English
+- Office
+
+---
+
+## 教育
+
+华中科技大学 本科
+上海交通大学 硕士
