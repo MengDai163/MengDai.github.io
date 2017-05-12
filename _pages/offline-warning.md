@@ -2,7 +2,7 @@
 layout:    page
 permalink: "/生活拾趣/"
 author:    呆萌
-weight:    5
+weight:    90
 menutitle: 生活拾趣
 title:     生活拾趣
 excerpt:   生活中的乐子
